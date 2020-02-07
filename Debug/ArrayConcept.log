@@ -1,0 +1,5 @@
+﻿  ArrayConcept.cpp
+D:\data_structure\code_sample\ArrayConcept\ArrayConcept.cpp(400,11): warning C4101: 'temp': unreferenced local variable
+D:\data_structure\code_sample\ArrayConcept\ArrayConcept.cpp(412,12): warning C4101: 'temp': unreferenced local variable
+D:\data_structure\code_sample\ArrayConcept\ArrayConcept.cpp(434): warning C4715: 'average': not all control paths return a value
+  ArrayConcept.vcxproj -> D:\data_structure\code_sample\ArrayConcept\Debug\ArrayConcept.exe
